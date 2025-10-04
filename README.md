@@ -103,20 +103,5 @@ Potential improvements:
 
 **Zainab Rashid**
 - Computer Science Student
-- Enrollment: 037
-- Email: zainab.kashif.rashid@gmail.com
-- Location: Karachi, Pakistan
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-This is a personal portfolio project. Feel free to fork and customize for your own use.
-
----
-
-**Note**: Remember to update all personal information, project details, and images to reflect your actual work and experience.
-
-⭐ If you find this template helpful, please give it a star!
